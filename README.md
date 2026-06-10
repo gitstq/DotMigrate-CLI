@@ -1,4 +1,4 @@
-# 🦞 DotMigrate-CLI
+#  DotMigrate-CLI
 
 <p align="center">
   <b>轻量级终端 Dotfiles 迁移与环境可移植性引擎</b><br>
