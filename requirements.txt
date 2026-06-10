@@ -1,0 +1,3 @@
+# EnvSync-CLI
+# 零依赖 - 纯Python标准库实现
+# Zero Dependencies - Pure Python Standard Library
